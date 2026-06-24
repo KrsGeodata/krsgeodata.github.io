@@ -1,7 +1,7 @@
 # Kristiansand Municipal FoU Program
 <img width="672" height="61" alt="image" src="https://github.com/user-attachments/assets/434ddf7f-bb46-479f-8135-514259ebdad6" />
 
-[🇳🇴 Norsk](README.md) | [🇬🇧 English](README.en.md) | [📚 FoU Public](https://krsgeodata.github.io/FoU_Public/) | [💻 GitHub](https://github.com/KrsGeodata/FoU_Public) | [🧪 K-LABS](https://labs.geokrs.no)
+[🇳🇴 Norsk](README.md) | [🇬🇧 English](README.en.md) | [📚 FoU Public](https://krsgeodata.github.io/FoU_Public/) | [💻 GitHub](https://github.com/KrsGeodata/FoU_Public) | [🧪 K-LABS](http://labs.geokrs.no)
 ---
 
 # Kommunal forskning, innovasjon og eksperimentering i praksis
@@ -60,7 +60,7 @@ Her publiseres løpende:
 - Teknologiske eksperimenter
 - FoU-resultater
 
-🌐 https://labs.geokrs.no
+🌐 http://labs.geokrs.no
 
 ---
 
